@@ -3,7 +3,7 @@
 # actions-youth
 - https://github.com/Sunert/Scripts
 - 中青看点极速版本
-- Task/..
+- Task/....
 
 ~~~
 2. 获取Cookie方法，可随时更新
